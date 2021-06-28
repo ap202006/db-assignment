@@ -1,0 +1,1 @@
+insert into trade (trade_id, version, counter_party_id, book_id, maturity_date, created_date) values ('T20', '1', 'CP-1','B1','2020-01-01','2020-01-01');
