@@ -1,4 +1,4 @@
-"# db-assignment TradeStore Coding assignment based on TDD approach" 
+TradeStore Coding assignment based on TDD approach
 
 Submitted By: Abhishek Punj
 Email: abhishek.punj@gmail.com
